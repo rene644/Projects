@@ -1,0 +1,9 @@
+2025-04-22 18:20:13,351 - INFO - Moved: .849C9593-D756-4E56-8D6E-42412F2A707B \u2192 C:\Users\renem\OneDrive\No Extension/
+2025-04-22 18:20:13,382 - INFO - Moved: desktop.ini \u2192 C:\Users\renem\OneDrive\ini/
+2025-04-22 18:21:30,363 - INFO - Moved: 3d-abstract-2560-x-1440-wallpaper-csxda009kowbh58l.jpg \u2192 C:\Users\renem\OneDrive\Documentos\Images/
+2025-04-22 18:21:30,366 - INFO - Moved: 407941.png \u2192 C:\Users\renem\OneDrive\Documentos\Images/
+2025-04-22 18:29:05,727 - ERROR - Directory 'Documentos' does not exist.
+2025-04-22 18:30:48,304 - INFO - Moved: Gemini_backround_refresh.txt \u2192 C:\Users\renem\OneDrive\Documents/
+2025-04-22 18:30:48,307 - INFO - Moved: IVR_simulator_Code_report.txt \u2192 C:\Users\renem\OneDrive\Documents/
+2025-04-22 18:30:48,311 - INFO - Moved: log.txt \u2192 C:\Users\renem\OneDrive\Documents/
+2025-04-22 18:30:48,313 - INFO - Moved: WeatherKey.txt \u2192 C:\Users\renem\OneDrive\Documents/

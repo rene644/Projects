@@ -1,0 +1,38 @@
+2025-04-24 14:32:42,472 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 14:51:47,457 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 15:53:19,127 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 15:53:19,128 - INFO - Successfully loaded prompts from: ivr_prompts.json
+2025-04-24 15:55:52,998 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 15:55:52,999 - INFO - Successfully loaded prompts from: ivr_prompts.json
+2025-04-24 15:57:23,029 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:01:35,085 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:12:21,037 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:14:03,893 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:14:08,582 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:14:31,159 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:19:55,409 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:24:06,670 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:25:07,769 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:32:21,224 - ERROR - Error: The file 'ivr_prompts.json' was not found.
+2025-04-24 16:39:42,594 - ERROR - Error: The file 'ivr_simulator_RT.json' was not found.
+2025-04-24 16:40:28,079 - ERROR - Error: The file 'config.json' was not found.
+2025-04-24 16:45:35,505 - ERROR - Error: The file 'ivr_simulator_RT.json' was not found.
+2025-04-24 16:49:01,938 - ERROR - Error: The file 'ivr_simulator_RT.json' was not found.
+2025-04-24 17:11:32,743 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 17:11:32,746 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:27:12,153 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 17:27:12,153 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:27:27,797 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 17:27:27,800 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:30:32,900 - INFO - Using welcome message: Welcome to Acme Customer Service!
+2025-04-24 17:30:32,901 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 17:30:32,902 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:30:37,864 - INFO - Using welcome message: Welcome to Acme Customer Service!
+2025-04-24 17:30:37,865 - WARNING - Warning: Missing 'welcome' prompt in 'general_prompts'.
+2025-04-24 17:30:37,866 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:33:30,805 - INFO - Using welcome message: Welcome to Acme Customer Service!
+2025-04-24 17:33:30,809 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:33:35,580 - INFO - Using welcome message: Welcome to Acme Customer Service!
+2025-04-24 17:33:35,582 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
+2025-04-24 17:38:55,053 - INFO - Using welcome message: Welcome to Acme Customer Service!
+2025-04-24 17:38:55,054 - INFO - ✅ Successfully loaded prompts from: c:\Users\renem\Documentos\Python with AI\python_projects\python_projects\weather_projects\ivr_simulator_RT.json
